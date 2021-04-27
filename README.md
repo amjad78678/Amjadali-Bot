@@ -18,7 +18,7 @@
 ## Clone This Project is
 
 ```bash
-> git clone https://github.com/xxirfanx/wav2
+> git clone https://github.com/amjad78678/wav2
 ```
 
 ```bash
